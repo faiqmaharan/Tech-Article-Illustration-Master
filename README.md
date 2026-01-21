@@ -109,7 +109,7 @@ No text, no watermark, no plastic texture, no lens flare, no glowing brains
 ### 方法二：Clone 仓库
 
 ```bash
-git clone https://github.com/gaofei/tech-article-image.git
+git clone https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master.git
 ```
 
 然后上传 `dist/tech-article-image.zip` 到 Claude Skills。
