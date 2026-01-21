@@ -15,7 +15,13 @@
 这个 Skill 提供 **25种经过设计验证的视觉风格**，每一种都来自真实的艺术流派或设计传统——瑞士国际主义、专利说明书、华尔街日报点画、蓝晒印相、绘图仪生成艺术……
 
 **不是随机生成，而是有章法的视觉匹配。**
-
+<div align="center">
+<img src="https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master/blob/main/assets/styles-01-rational.png" width=600 />   
+<img src="https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master/blob/main/assets/styles-02-narrative.png" width=600 />
+<img src="https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master/blob/main/assets/styles-03-industrial.png" width=600 />
+<img src="https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master/blob/main/assets/styles-04-digital.png" width=600 />
+<img src="https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master/blob/main/assets/styles-05-aesthetic.png" width=600 />
+</div>
 ---
 
 ## 核心亮点
@@ -103,7 +109,7 @@ No text, no watermark, no plastic texture, no lens flare, no glowing brains
 ### 方法二：Clone 仓库
 
 ```bash
-git clone https://github.com/gaofei/tech-article-image.git
+git clone https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master.git
 ```
 
 然后上传 `dist/tech-article-image.zip` 到 Claude Skills。
