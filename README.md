@@ -150,13 +150,45 @@ Mathematical precision. No text, no plastic texture.
 
 本 Skill 支持在 Claude 中直接生成图像，无需手动复制提示词。
 
-**前提条件：**
-- Claude 客户端支持 MCP（Model Context Protocol）
-- 配置了图像生成 MCP 工具（工具名：`mcp-image:generate_image`）
+**只需3步：**
 
-**推荐生图模型：** Google Gemini 3.0
+### 1. 申请 Gemini API Key
 
-配置完成后，Skill 会自动检测并调用生图工具。未配置时，Skill 会输出中英双语提示词供手动使用。
+访问 [Google AI Studio](https://aistudio.google.com/apikey)，免费申请 API Key。
+
+### 2. 编辑 Claude 配置文件
+
+找到配置文件位置：
+- **Mac**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+
+添加以下内容（如果文件不存在就新建）：
+
+```json
+{
+  "mcpServers": {
+    "mcp-image": {
+      "command": "npx",
+      "args": ["-y", "mcp-image"],
+      "env": {
+        "GEMINI_API_KEY": "你的API Key",
+        "IMAGE_OUTPUT_DIR": "图片保存路径，如 /Users/你的用户名/Pictures/AI-Images"
+      }
+    }
+  }
+}
+```
+
+### 3. 重启 Claude
+
+完全退出 Claude 后重新打开，在 Connectors 里看到 `mcp-image` 已启用即配置成功。
+
+---
+
+**说明：**
+- `mcp-image` 是一个开源 npm 包，基于 Gemini 3.0 生图
+- 首次使用会自动下载，无需手动安装
+- 生成的图片保存在 `IMAGE_OUTPUT_DIR` 指定的目录
 
 ---
 
@@ -184,6 +216,12 @@ MIT License.
 欢迎 Fork、修改、商用。
 
 如果觉得有用，欢迎 Star ⭐
+
+---
+
+## 致谢
+
+本项目推荐使用的图像生成工具 [mcp-image](https://github.com/shinpr/mcp-image) 由 **shinpr** 开发，基于 MIT 协议开源。感谢作者的贡献！
 
 ---
 
